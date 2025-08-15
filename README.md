@@ -64,13 +64,13 @@ pip install -r requirements.txt
 ### 4) Run the example
 
 ```bash
-python main.py
+> python main.py
 ```
 
 **Expected console output:**
 
 ```
-Predicted S_R32: 6.595544815063477
+> Predicted S_R32: 6.595544815063477
 ```
 
 This reproduces the ML prediction for the included `[EMIM][PF6]` example. For comparison, the COSMO prediction is `6.550745304`.
