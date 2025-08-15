@@ -103,7 +103,7 @@ This project is released under the **MIT License**. See `LICENSE`.
 
 ## Citation
 
-If you use this repository or model in academic work, please cite the paper:
+If you use this repository or model, please cite the paper:
 ```
 @article{Iftakher2025_HFCIL_Solubility,
   author  = {Iftakher, Ashfaq and Hasan, M. M. Faruque},
