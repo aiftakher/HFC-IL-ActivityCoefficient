@@ -1,6 +1,6 @@
 # R-32 Selectivity, S<sub>R32</sub> Prediction for a Given Ionic Liquid
 
-This repository provides a script to load a pretrained artificial neural network (ANN) and a fitted scaler to predict the R-32 selectivity **S<sub>R32</sub>** from **50 molecular features** (e.g., sigma-profile descriptors) of a given ionic liquid. An example input corresponding to the ionic liquid **[EMIM][PF₆]** is included.
+This repository provides a script to load a pretrained artificial neural network (ANN) to predict the R-32 selectivity **S<sub>R32</sub>** from **50 molecular features** (e.g., sigma-profile descriptors) of a given ionic liquid. An example input corresponding to the ionic liquid **[EMIM][PF₆]** is included.
 
 > **Expected result for the provided `[EMIM][PF6]` example**  
 > **ML-predicted `S_R32`**: `6.595544815063477`  
