@@ -61,8 +61,6 @@ Then install:
 pip install -r requirements.txt
 ```
 
-> These version pins preserve legacy Keras/TensorFlow behavior for loading HDF5 weight files used by this project.
-
 ### 4) Run the example
 
 ```bash
