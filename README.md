@@ -105,12 +105,15 @@ This project is released under the **MIT License**. See `LICENSE`.
 
 If you use this repository or model, please cite the paper:
 ```
-@article{Iftakher2025_HFCIL_Solubility,
-  author  = {Iftakher, Ashfaq and Hasan, M. M. Faruque},
-  title   = {Design Space Exploration and Machine Learning Prediction of Hydrofluorocarbon Solubility in Ionic Liquids for Refrigerant Separation},
-  journal = {Journal of Chemical Information and Modeling},
-  year    = {2025},
-  note    = {Accepted}
+@article{iftakher2025design,
+  title={Design Space Exploration and Machine Learning Prediction of Hydrofluorocarbon Solubility in Ionic Liquids for Refrigerant Separation},
+  author={Iftakher, Ashfaq and Hasan, MM Faruque},
+  journal={Journal of Chemical Information and Modeling},
+  volume={65},
+  number={22},
+  pages={12168--12178},
+  year={2025},
+  publisher={ACS Publications}
 }
 ```
 
