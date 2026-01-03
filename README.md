@@ -2,6 +2,8 @@
 
 This repository provides a script to load a pretrained artificial neural network (ANN) to predict the R-32 selectivity **S<sub>R32</sub>** from **50 molecular features** (e.g., sigma-profile descriptors) of a given ionic liquid. An example input corresponding to the ionic liquid **[EMIM][PF₆]** is included.
 
+📄 **Paper:** [Design Space Exploration and Machine Learning Prediction of Hydrofluorocarbon Solubility in Ionic Liquids for Refrigerant Separation](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c01216)
+
 > **Expected result for the provided `[EMIM][PF6]` example**  
 > **ML-predicted `S_R32`**: `6.595544815063477`  
 > **COSMO-predicted (reference)**: `6.550745304`
